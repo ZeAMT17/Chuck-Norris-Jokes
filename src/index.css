@@ -54,8 +54,12 @@ button:focus-visible {
   }
 }
 h1 {
+  background-image: url("https://static.wixstatic.com/media/0eb2e4_526bbd602d1c428a98a2d59e3d9d9874~mv2.png/v1/fill/w_568,h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0eb2e4_526bbd602d1c428a98a2d59e3d9d9874~mv2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: black;
+  text-shadow: 2px 2px 5px red;
   font-size: 1.5rem;
-  background: #666699;
   border-radius: 15px 50px 30px;
   text-align: center;
 }
